@@ -25,7 +25,7 @@ public class BraceHomeActivity extends BaseActivity implements ViewPager.OnPageC
     ViewPager homeViewPager;
     private List<Fragment> fragmentList;
     private FragmentAdapter fragmentAdapter;
-    
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
