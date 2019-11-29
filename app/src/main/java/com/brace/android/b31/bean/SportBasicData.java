@@ -6,6 +6,7 @@ package com.brace.android.b31.bean;
  */
 public class SportBasicData {
 
+
     //当前汇总步数
     private int currSteps;
 

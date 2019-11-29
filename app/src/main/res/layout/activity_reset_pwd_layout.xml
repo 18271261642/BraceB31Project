@@ -28,8 +28,6 @@
                android:layout_height="wrap_content"
                android:text="默认密码为:0000"/>
 
-
-
             <EditText
                 android:id="@+id/resetPwdOldPwdEdit"
                 android:layout_marginTop="@dimen/size_25"

@@ -13,7 +13,6 @@ import android.arch.lifecycle.ViewModelProviders;
 import com.brace.android.b31.R;
 import com.brace.android.b31.view.LazyFragment;
 
-
 public class NotificationsFragment extends LazyFragment {
 
 

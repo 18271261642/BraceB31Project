@@ -4,6 +4,7 @@ package com.brace.android.b31.view.widget;
  * Created by littlejie on 2017/2/26.
  */
 public class Constant {
+	
 
     public static final boolean ANTI_ALIAS = true;
 

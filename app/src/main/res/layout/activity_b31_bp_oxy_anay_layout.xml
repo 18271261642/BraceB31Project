@@ -5,9 +5,9 @@
     android:layoutDirection="ltr"
     android:orientation="vertical">
 
+	
 
     <include layout="@layout/comment_title_layout"/>
-
 
     <include layout="@layout/comment_date_arrow_layout"/>
 

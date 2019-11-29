@@ -8,7 +8,6 @@ import com.veepoo.protocol.util.b;
  * Date 2019/11/6
  */
 public class BraceSleepBean implements Comparable<Object>{
-
     /**
      * 日期 yyyy-MM-dd格式
      */

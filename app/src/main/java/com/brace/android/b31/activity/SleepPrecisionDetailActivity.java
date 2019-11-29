@@ -9,7 +9,6 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.SeekBar;
 import android.widget.TextView;
-
 import com.brace.android.b31.BaseApplication;
 import com.brace.android.b31.R;
 import com.brace.android.b31.bean.BraceCommB31Db;
@@ -21,13 +20,10 @@ import com.brace.android.b31.utils.BraceUtils;
 import com.brace.android.b31.utils.SpUtils;
 import com.brace.android.b31.view.widget.BraceCusSleepView;
 import com.google.gson.Gson;
-
 import org.apache.commons.lang.StringUtils;
-
 import java.text.DecimalFormat;
 import java.util.ArrayList;
 import java.util.List;
-
 import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.OnClick;

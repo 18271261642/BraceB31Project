@@ -12,7 +12,6 @@ import android.widget.RelativeLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 import android.widget.ToggleButton;
-
 import com.aigestudio.wheelpicker.widgets.ProfessionPick;
 import com.aigestudio.wheelpicker.widgets.ProvincePick;
 import com.brace.android.b31.BaseApplication;
@@ -24,12 +23,9 @@ import com.veepoo.protocol.listener.data.ILongSeatDataListener;
 import com.veepoo.protocol.model.datas.LongSeatData;
 import com.veepoo.protocol.model.enums.ELongSeatStatus;
 import com.veepoo.protocol.model.settings.LongSeatSetting;
-
 import org.apache.commons.lang.StringUtils;
-
 import java.util.ArrayList;
 import java.util.HashMap;
-
 import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.OnClick;

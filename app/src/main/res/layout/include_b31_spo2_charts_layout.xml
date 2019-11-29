@@ -9,6 +9,8 @@
     android:layout_height="wrap_content">
 
 
+	
+	
     <!--模块2 心脏负荷-->
     <LinearLayout
         android:id="@+id/block_heart"

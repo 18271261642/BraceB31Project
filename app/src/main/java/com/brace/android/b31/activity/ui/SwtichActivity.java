@@ -12,7 +12,6 @@ import android.widget.ImageView;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 import android.widget.ToggleButton;
-
 import com.brace.android.b31.BaseApplication;
 import com.brace.android.b31.R;
 import com.brace.android.b31.activity.BaseActivity;
@@ -29,7 +28,6 @@ import com.veepoo.protocol.model.enums.EFunctionStatus;
 import com.veepoo.protocol.model.settings.CheckWearSetting;
 import com.veepoo.protocol.model.settings.CustomSetting;
 import com.veepoo.protocol.model.settings.CustomSettingData;
-
 import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.OnClick;

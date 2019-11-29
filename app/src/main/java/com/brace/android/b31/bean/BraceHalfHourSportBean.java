@@ -7,7 +7,6 @@ package com.brace.android.b31.bean;
  */
 public class BraceHalfHourSportBean {
 
-
     public String date;
     public CusVPTimeData time;
     public int stepValue;

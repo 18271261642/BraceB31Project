@@ -10,6 +10,8 @@
     android:layout_height="wrap_content">
 
 
+	
+	
     <com.github.mikephil.charting.charts.LineChart
         android:layout_marginTop="25dp"
         android:id="@+id/homeSpo2LinChartView"

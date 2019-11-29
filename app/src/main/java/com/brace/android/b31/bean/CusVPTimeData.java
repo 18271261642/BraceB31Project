@@ -1,7 +1,6 @@
 package com.brace.android.b31.bean;
 
 import android.text.format.Time;
-
 import java.util.Calendar;
 
 /**
@@ -10,6 +9,7 @@ import java.util.Calendar;
  *
  */
 public class CusVPTimeData {
+
 
     public int year;
     public int day;

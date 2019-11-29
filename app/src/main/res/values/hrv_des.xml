@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
     <string name="vphrv_repo_0">洛伦兹散点图分析报告</string>
     <string name="vphrv_repo_1_00">HRV数据量不足，无法进行相关分析，请坚持佩戴或正确佩戴，佩戴时间越长，分析结果越可靠。</string>
     <string name="vphrv_repo_2_11">测量期间心率的最大变化正常，心率变化的范围正常。</string>

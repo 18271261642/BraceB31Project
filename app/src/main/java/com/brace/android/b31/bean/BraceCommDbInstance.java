@@ -1,9 +1,7 @@
 package com.brace.android.b31.bean;
 
 import android.util.Log;
-
 import org.litepal.LitePal;
-
 import java.awt.font.TextAttribute;
 import java.util.List;
 

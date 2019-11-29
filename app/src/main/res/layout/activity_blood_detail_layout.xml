@@ -27,7 +27,6 @@
         <include layout="@layout/include_date_switch_layout" />
 
 
-
         <com.brace.android.b31.view.widget.BraceCusDetailBloodView
             android:id="@+id/cusDetailBloodView"
             android:layout_width="match_parent"
@@ -37,8 +36,6 @@
 
 
     </LinearLayout>
-
-
 
 
     <TextView

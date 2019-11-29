@@ -8,6 +8,7 @@ import com.brace.android.b31.activity.ui.t.TFragment;
 
 public class TActivity extends AppCompatActivity {
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

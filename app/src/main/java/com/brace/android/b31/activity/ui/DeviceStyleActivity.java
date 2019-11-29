@@ -12,7 +12,6 @@ import android.widget.CompoundButton;
 import android.widget.ImageView;
 import android.widget.ListView;
 import android.widget.TextView;
-
 import com.brace.android.b31.BaseApplication;
 import com.brace.android.b31.R;
 import com.brace.android.b31.activity.BaseActivity;
@@ -23,10 +22,8 @@ import com.brace.android.b31.view.OnDeviceStyleSelectListener;
 import com.veepoo.protocol.listener.base.IBleWriteResponse;
 import com.veepoo.protocol.listener.data.IScreenStyleListener;
 import com.veepoo.protocol.model.datas.ScreenStyleData;
-
 import java.util.ArrayList;
 import java.util.List;
-
 import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.OnClick;

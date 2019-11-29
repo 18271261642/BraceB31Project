@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
 	<string-array name= "glossary_breath_item_1">
 		<item>每分钟呼吸次数的医学术语，胸部的一次起伏就是一次呼吸，即一次吸气一次呼气。</item>
 	</string-array>

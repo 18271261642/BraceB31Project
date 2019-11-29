@@ -18,7 +18,6 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
-
 import com.brace.android.b31.BaseApplication;
 import com.brace.android.b31.R;
 import com.brace.android.b31.activity.BloodDetailActivity;
@@ -62,9 +61,7 @@ import com.veepoo.protocol.model.datas.Spo2hOriginData;
 import com.veepoo.protocol.util.HRVOriginUtil;
 import com.veepoo.protocol.util.HrvScoreUtil;
 import com.veepoo.protocol.util.Spo2hOriginUtil;
-
 import org.litepal.LitePal;
-
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
@@ -72,12 +69,10 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
-
 import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
 import butterknife.Unbinder;
-
 import static com.brace.android.b31.spo2andhrv.bpoxy.enums.Constants.CHART_MAX_HRV;
 import static com.brace.android.b31.spo2andhrv.bpoxy.enums.Constants.CHART_MAX_SPO2H;
 import static com.brace.android.b31.spo2andhrv.bpoxy.enums.Constants.CHART_MIN_HRV;

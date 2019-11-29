@@ -7,6 +7,9 @@
 	android:layoutDirection="ltr"
     android:orientation="vertical">
 
+	
+	
+	
     <TextView
         android:id="@+id/markview_tv_value"
         android:layout_width="wrap_content"

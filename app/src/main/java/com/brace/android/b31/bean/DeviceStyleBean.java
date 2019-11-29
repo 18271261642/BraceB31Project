@@ -6,6 +6,7 @@ package com.brace.android.b31.bean;
  */
 public class DeviceStyleBean {
 
+
     private int id;
 
     private boolean isChecked;

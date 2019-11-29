@@ -13,8 +13,6 @@ import java.util.List;
  */
 public class SportDetailAdapter extends CommonRecyclerAdapter<BraceHalfHourSportBean> {
 
-
-
     public SportDetailAdapter(Context context, List<BraceHalfHourSportBean> data, int layoutId) {
         super(context, data, layoutId);
     }

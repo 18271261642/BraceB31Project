@@ -7,8 +7,6 @@
 
     <include layout="@layout/comment_title_layout"/>
 
-
-
     <android.support.v4.widget.SwipeRefreshLayout
         app:layout_constraintTop_toBottomOf="@+id/commTitleLayout"
         android:id="@+id/scanSwipeRefresh"

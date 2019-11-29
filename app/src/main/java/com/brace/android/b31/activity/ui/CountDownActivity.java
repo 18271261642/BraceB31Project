@@ -13,7 +13,6 @@ import android.widget.ImageView;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 import android.widget.ToggleButton;
-
 import com.bigkoo.pickerview.builder.TimePickerBuilder;
 import com.bigkoo.pickerview.listener.OnTimeSelectListener;
 import com.bigkoo.pickerview.view.TimePickerView;
@@ -26,10 +25,8 @@ import com.veepoo.protocol.listener.data.ICountDownListener;
 import com.veepoo.protocol.model.datas.CountDownData;
 import com.veepoo.protocol.model.enums.ECountDownStatus;
 import com.veepoo.protocol.model.settings.CountDownSetting;
-
 import java.util.Calendar;
 import java.util.Date;
-
 import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.OnClick;

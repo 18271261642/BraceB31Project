@@ -4,10 +4,11 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
+	
+	
     <include
         layout="@layout/comment_title_layout"
         app:layout_constraintTop_toTopOf="parent" />
-
 
     <android.support.v4.widget.NestedScrollView
         android:layout_width="match_parent"

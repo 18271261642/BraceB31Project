@@ -6,6 +6,7 @@ package com.brace.android.b31.bean;
  * Date 2019/11/5
  */
 public class BraceHalfBpBean {
+	
 
     private String date;
     private CusVPTimeData time;

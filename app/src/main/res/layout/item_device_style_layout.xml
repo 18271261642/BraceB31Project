@@ -17,8 +17,6 @@
        android:text="风格1"/>
 
 
-
-
     <CheckBox
         android:id="@+id/itemStyleCheckBox"
         android:layout_width="wrap_content"

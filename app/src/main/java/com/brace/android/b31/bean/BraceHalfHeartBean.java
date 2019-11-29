@@ -7,7 +7,6 @@ package com.brace.android.b31.bean;
  */
 public class BraceHalfHeartBean {
 
-
     private String date;
     private CusVPTimeData time;
     private int rateValue;

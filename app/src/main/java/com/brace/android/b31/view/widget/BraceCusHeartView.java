@@ -12,9 +12,7 @@ import android.support.annotation.Nullable;
 import android.util.AttributeSet;
 import android.util.TypedValue;
 import android.view.View;
-
 import com.brace.android.b31.R;
-
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;

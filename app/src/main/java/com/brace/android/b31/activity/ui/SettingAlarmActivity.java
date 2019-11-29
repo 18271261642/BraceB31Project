@@ -13,7 +13,6 @@ import android.widget.GridView;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
-
 import com.aigestudio.wheelpicker.widgets.ProvincePick;
 import com.brace.android.b31.BaseApplication;
 import com.brace.android.b31.R;
@@ -26,7 +25,6 @@ import com.veepoo.protocol.listener.base.IBleWriteResponse;
 import com.veepoo.protocol.listener.data.IAlarm2DataListListener;
 import com.veepoo.protocol.model.datas.AlarmData2;
 import com.veepoo.protocol.model.settings.Alarm2Setting;
-
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
@@ -34,7 +32,6 @@ import java.util.Calendar;
 import java.util.Date;
 import java.util.HashMap;
 import java.util.Locale;
-
 import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.OnClick;

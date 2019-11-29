@@ -18,6 +18,8 @@
         app:layout_constraintBottom_toBottomOf="parent"
         android:layout_height="wrap_content" />
 
+		
+		
 
     <ImageView
         android:layout_width="wrap_content"

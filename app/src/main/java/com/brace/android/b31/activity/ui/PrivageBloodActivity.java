@@ -8,7 +8,6 @@ import android.widget.CompoundButton;
 import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.ToggleButton;
-
 import com.brace.android.b31.BaseApplication;
 import com.brace.android.b31.R;
 import com.brace.android.b31.activity.BaseActivity;
@@ -23,7 +22,6 @@ import com.veepoo.protocol.model.enums.EBPDetectModel;
 import com.veepoo.protocol.model.enums.EBPStatus;
 import com.veepoo.protocol.model.enums.EFunctionStatus;
 import com.veepoo.protocol.model.settings.BpSetting;
-
 import java.util.ArrayList;
 import java.util.List;
 import butterknife.BindView;

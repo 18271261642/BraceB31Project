@@ -3,7 +3,6 @@
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
 
-
     <dimen name="size_350">350dp</dimen>
     <dimen name="size_210">210dp</dimen>
     <dimen name="size_206">206dp</dimen>

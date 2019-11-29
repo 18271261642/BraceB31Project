@@ -12,10 +12,6 @@ import android.telephony.TelephonyManager;
  */
 public class BlePhoneAlertReceiver extends BroadcastReceiver {
 
-
-
-
-
     @Override
     public void onReceive(Context context, Intent intent) {
         String action = intent.getAction();
@@ -24,7 +20,11 @@ public class BlePhoneAlertReceiver extends BroadcastReceiver {
         if(BleConnStatus.CONNDEVICENAME == null)
             return;
         if(action.equals(TelephonyManager.ACTION_PHONE_STATE_CHANGED)){
-
+            sendPhoneStatus(context,intent);
         }
+    }
+
+    private void sendPhoneStatus(Context context, Intent intent) {
+
     }
 }

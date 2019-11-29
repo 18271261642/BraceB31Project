@@ -9,6 +9,7 @@ import android.widget.ListView;
  * Date 2019/1/15
  */
 public class CusWrapListView extends ListView {
+	
     public CusWrapListView(Context context) {
         super(context);
     }

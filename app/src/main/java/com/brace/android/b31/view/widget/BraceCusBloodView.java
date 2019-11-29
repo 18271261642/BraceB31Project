@@ -26,6 +26,7 @@ import java.util.Map;
  */
 
 public class BraceCusBloodView extends View {
+	
 
     //低压的画笔
     private Paint lowPaint;

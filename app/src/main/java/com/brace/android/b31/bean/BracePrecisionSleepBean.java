@@ -9,8 +9,6 @@ import java.util.List;
  */
 public class BracePrecisionSleepBean extends BraceSleepBean {
 
-
-
     //睡眠标志
     private int sleepTag;
     //起夜得分

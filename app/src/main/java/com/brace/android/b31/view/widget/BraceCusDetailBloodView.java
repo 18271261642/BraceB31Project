@@ -20,9 +20,7 @@ import android.util.TypedValue;
 import android.view.GestureDetector;
 import android.view.MotionEvent;
 import android.view.View;
-
 import org.apache.commons.lang.StringUtils;
-
 import java.text.DecimalFormat;
 import java.util.ArrayList;
 import java.util.Collections;

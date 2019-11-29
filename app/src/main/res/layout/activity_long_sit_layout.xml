@@ -4,14 +4,13 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-
+	
     <include layout="@layout/comment_title_layout" />
 
     <RelativeLayout
         android:id="@+id/longSitSwitchRel"
         style="@style/B30DeviceRelStyle"
         app:layout_constraintTop_toBottomOf="@+id/commTitleLayout">
-
 
         <TextView
             style="@style/B30DeviceStyle"

@@ -11,7 +11,6 @@ import android.widget.SeekBar;
 import android.widget.TextView;
 import android.widget.Toast;
 import android.widget.ToggleButton;
-
 import com.aigestudio.wheelpicker.widgets.ProvincePick;
 import com.brace.android.b31.BaseApplication;
 import com.brace.android.b31.R;
@@ -22,12 +21,9 @@ import com.veepoo.protocol.listener.data.INightTurnWristeDataListener;
 import com.veepoo.protocol.model.datas.NightTurnWristeData;
 import com.veepoo.protocol.model.datas.TimeData;
 import com.veepoo.protocol.model.settings.NightTurnWristSetting;
-
 import org.apache.commons.lang.StringUtils;
-
 import java.util.ArrayList;
 import java.util.HashMap;
-
 import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.OnClick;

@@ -27,6 +27,7 @@ import java.text.DecimalFormat;
  */
 
 public class WaveProgress extends View {
+	
 
     private static final String TAG = WaveProgress.class.getSimpleName();
 

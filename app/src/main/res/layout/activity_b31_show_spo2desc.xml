@@ -10,8 +10,6 @@
 
        layout="@layout/comment_title_layout"/>
 
-
-
     <WebView
         android:id="@+id/showSpo2DescWebView"
         android:layout_width="match_parent"

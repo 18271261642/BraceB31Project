@@ -8,6 +8,8 @@
     android:orientation="vertical">
 
 
+	
+	
     <com.veepoo.protocol.view.LorenzChartView
         android:id="@+id/lorezChartView"
         android:layout_width="match_parent"

@@ -8,8 +8,6 @@
 
     <include layout="@layout/comment_title_layout"/>
 
-
-
     <ExpandableListView
         android:id="@+id/glossary_list"
         android:layout_width="match_parent"

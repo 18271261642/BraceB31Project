@@ -71,8 +71,6 @@
             android:layout_height="1dp"
             android:background="#44000000" />
 
-
-
         <LinearLayout
             android:id="@+id/alarm_type_line"
             android:layout_width="match_parent"

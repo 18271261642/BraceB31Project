@@ -9,7 +9,6 @@ import android.widget.CompoundButton;
 import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.ToggleButton;
-
 import com.brace.android.b31.R;
 import com.brace.android.b31.utils.BraceUtils;
 import com.veepoo.protocol.model.settings.Alarm2Setting;

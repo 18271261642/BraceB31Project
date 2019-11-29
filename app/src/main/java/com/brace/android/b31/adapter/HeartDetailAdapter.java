@@ -4,7 +4,6 @@ import android.content.Context;
 
 import com.brace.android.b31.R;
 import com.brace.android.b31.bean.BraceHalfHeartBean;
-
 import java.util.List;
 
 /**
@@ -15,12 +14,8 @@ import java.util.List;
 public class HeartDetailAdapter extends CommonRecyclerAdapter<BraceHalfHeartBean>{
 
 
-
-
     public HeartDetailAdapter(Context context, List<BraceHalfHeartBean> data, int layoutId) {
         super(context, data, layoutId);
-
-
     }
 
     @Override

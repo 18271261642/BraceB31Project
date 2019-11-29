@@ -9,9 +9,7 @@ import android.text.Layout;
 import android.text.StaticLayout;
 import android.text.TextPaint;
 import android.util.AttributeSet;
-
 import com.brace.android.b31.R;
-
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;

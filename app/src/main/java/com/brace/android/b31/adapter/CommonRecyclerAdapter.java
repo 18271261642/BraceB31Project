@@ -5,7 +5,6 @@ import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-
 import java.util.List;
 
 /**
@@ -13,6 +12,7 @@ import java.util.List;
  */
 
 public abstract class CommonRecyclerAdapter<T> extends RecyclerView.Adapter<MyViewHolder> {
+
 
     protected Context mContext;
     protected LayoutInflater mInflater;

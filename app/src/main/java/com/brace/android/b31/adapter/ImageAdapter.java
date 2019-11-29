@@ -5,11 +5,11 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.ImageView;
-
 import com.brace.android.b31.R;
 
 
 public class ImageAdapter extends BaseAdapter {
+
 
     /**
      * 闹钟图标数组,资源ID,未选中
@@ -42,6 +42,8 @@ public class ImageAdapter extends BaseAdapter {
         return position;
     }
 
+	
+	
     @Override
     public View getView(int position, View convertView, ViewGroup parent) {
         ImageView imageView;

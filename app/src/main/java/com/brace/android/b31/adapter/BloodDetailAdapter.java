@@ -13,11 +13,10 @@ import java.util.List;
 public class BloodDetailAdapter extends CommonRecyclerAdapter<BraceHalfBpBean>{
 
 
-
-
     public BloodDetailAdapter(Context context, List<BraceHalfBpBean> data, int layoutId) {
         super(context, data, layoutId);
     }
+	
 
     @Override
     public void convert(MyViewHolder holder, BraceHalfBpBean item) {

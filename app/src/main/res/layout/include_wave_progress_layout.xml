@@ -7,6 +7,8 @@
     android:layout_height="wrap_content">
 
 
+	
+	
         <FrameLayout
             android:id="@+id/waveProgressFl"
             app:layout_constraintLeft_toLeftOf="parent"

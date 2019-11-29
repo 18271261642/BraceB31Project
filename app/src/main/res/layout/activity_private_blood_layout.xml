@@ -18,8 +18,6 @@
             android:layout_height="wrap_content"
             android:orientation="vertical">
 
-
-
             <RelativeLayout
                 style="@style/B30DeviceRelStyle"
                 android:background="@drawable/square_white_btn_change">

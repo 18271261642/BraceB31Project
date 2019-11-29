@@ -9,6 +9,7 @@ import org.litepal.crud.LitePalSupport;
  */
 public class BraceCommB31Db extends LitePalSupport {
 
+
     /**
      * 日期 yyyy-MM-dd格式
      */

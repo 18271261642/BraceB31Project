@@ -4,7 +4,6 @@
 	android:layoutDirection="ltr"
     android:layout_height="wrap_content">
 
-
     <TextView
         android:id="@+id/glossary_item"
         android:layout_width="match_parent"

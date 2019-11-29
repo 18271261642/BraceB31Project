@@ -11,7 +11,6 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 import com.brace.android.b31.R;
 import com.brace.android.b31.view.OnItemClickListener;
-
 import java.util.List;
 
 /**
@@ -19,6 +18,7 @@ import java.util.List;
  * Date 2019/10/30
  */
 public class ScanDeviceAdapter extends RecyclerView.Adapter<ScanDeviceAdapter.ScanDeviceViewHolder>{
+
 
     private Context mContext;
     private List<BluetoothDevice> deviceList;
@@ -56,6 +56,7 @@ public class ScanDeviceAdapter extends RecyclerView.Adapter<ScanDeviceAdapter.Sc
             }
         });
     }
+	
 
     @Override
     public int getItemCount() {

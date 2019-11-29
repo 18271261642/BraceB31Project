@@ -18,9 +18,7 @@ import android.view.View;
 import android.view.ViewParent;
 import android.view.animation.Interpolator;
 import android.widget.Scroller;
-
 import com.brace.android.b31.R;
-
 import java.util.ArrayList;
 import java.util.List;
 
